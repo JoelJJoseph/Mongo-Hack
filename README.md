@@ -1,1 +1,1 @@
-"# Mongo-Hack" 
+"Mongo-Hack" 

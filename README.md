@@ -9,5 +9,11 @@ Almost majority of the population out their face a problem of availing medical f
 
 ## What does it do?:
  ## The main page to know about the website
- ![1](https://user-images.githubusercontent.com/72274851/149296514-0ef77e02-366c-4c4d-a5c4-388f45feeafc.jpg)!
-
+ ![1](https://user-images.githubusercontent.com/72274851/149296514-0ef77e02-366c-4c4d-a5c4-388f45feeafc.jpg)
+ ## Job portal
+ ![2](https://user-images.githubusercontent.com/72274851/149296779-fc8939bc-bb1e-49e8-8274-b0e919710280.jpg)
+ ## Job portal login
+ ![2 2](https://user-images.githubusercontent.com/72274851/149296897-89d96934-f8fb-4342-a7bc-a09b0f23757c.jpg)
+![2 3](https://user-images.githubusercontent.com/72274851/149296907-96336dd0-54a9-4f1a-b0cf-4049cb9d2a7e.jpg)
+## Database update
+![2 1](https://user-images.githubusercontent.com/72274851/149296915-2aa21df9-10bb-4fe1-be30-76b905ca38bc.jpg)

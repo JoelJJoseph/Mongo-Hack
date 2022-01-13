@@ -62,6 +62,12 @@ Almost majority of the population out their face a problem of availing medical f
 ![11](https://user-images.githubusercontent.com/72274851/149301334-c22400b9-ea63-499d-8171-76f042e117dc.jpg)
 ![12](https://user-images.githubusercontent.com/72274851/149301336-c39acf9c-d7c5-4528-8659-2e523c358543.jpg)
 
+## How i built it ❓
+I built this project in various languages like; CSS, Html, Node, Express, Javascript, Python(AI,ML)
+
+## Challenges I ran into 🎢
+The number of challenges that I faced was no joke, Time was a constraint as i had to schedule our time for this project from our day-to-day hectic schedule, during execution, there were errors where i had to focus on debugging them. The biggest obstacle that stood in front of me was in integrating Machine Learning, which we were able to pull of using python. Overcoming all the challenges we were able to create an outstanding innovative project which makes us proud of building it and some trouble with the code as well, but all of that apart we all feel very proud that overcame all those problems and created a beautiful website.
+
 
 
 

@@ -2,7 +2,7 @@
 ## Demo
 https://refug-assist.000webhostapp.com/
 
-r-jobportal.herokuapp.com/
+https://r-jobportal.herokuapp.com/
 
 https://refug-healthportal.herokuapp.com/
 

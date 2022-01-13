@@ -35,12 +35,16 @@ Almost majority of the population out their face a problem of availing medical f
 ## Username:admin
 ## Password:admin
 ![1](https://user-images.githubusercontent.com/72274851/149298848-8f6d6ceb-0258-467d-b1a5-e99e6040cd38.jpg)
+
 **Dashboard**
 ![2](https://user-images.githubusercontent.com/72274851/149298999-66971c14-7f07-4e11-8b02-11d86d1e8add.jpg)
+
 **Add patients**
 ![3](https://user-images.githubusercontent.com/72274851/149299111-717cf68e-d36c-4025-ad67-ff1269bdb0cb.jpg)
+
 **Add Room and Diseases**
 ![4](https://user-images.githubusercontent.com/72274851/149299430-5c8221a1-e3b7-4c97-9098-68a0459d5145.jpg)
+
 **Rooms with DATA**
 ![5](https://user-images.githubusercontent.com/72274851/149300116-20ae1257-bd34-481f-bd9b-8a3ab3bbcf03.jpg)
 

@@ -62,6 +62,14 @@ Almost majority of the population out their face a problem of availing medical f
 ![11](https://user-images.githubusercontent.com/72274851/149301334-c22400b9-ea63-499d-8171-76f042e117dc.jpg)
 ![12](https://user-images.githubusercontent.com/72274851/149301336-c39acf9c-d7c5-4528-8659-2e523c358543.jpg)
 
+## Machine learning
+![13](https://user-images.githubusercontent.com/72274851/149320399-2d543083-74ef-4432-a896-b880b6b9ad12.jpg)
+![15](https://user-images.githubusercontent.com/72274851/149320411-0f69c2a6-0a42-4dd9-a470-cb1e0e8f095e.jpg)
+**Virtual Consultation**
+![14](https://user-images.githubusercontent.com/72274851/149320409-cac97c36-9715-4d07-8edf-97ecf5d5e7c8.jpg)
+
+
+
 ## How i built it ❓
 I built this project in various languages like; CSS, Html, Node, Express, Javascript, Python(AI,ML)
 

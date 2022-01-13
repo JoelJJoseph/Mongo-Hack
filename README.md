@@ -48,3 +48,20 @@ Almost majority of the population out their face a problem of availing medical f
 **Rooms with DATA**
 ![5](https://user-images.githubusercontent.com/72274851/149300116-20ae1257-bd34-481f-bd9b-8a3ab3bbcf03.jpg)
 
+**Add Patients**
+![6](https://user-images.githubusercontent.com/72274851/149300537-34b6c977-72f2-4db8-a63e-0ed97f3af8bd.jpg)
+
+**Updated Dashboard**
+![7](https://user-images.githubusercontent.com/72274851/149300861-10b0407d-58b0-432b-9503-ab43169382be.jpg)
+
+## Database
+![8](https://user-images.githubusercontent.com/72274851/149301019-4a497732-f55a-43fe-a1b6-5c59de006e18.jpg)
+## Updated Db
+![9](https://user-images.githubusercontent.com/72274851/149301324-f7bcb61f-b312-4172-a335-75412b8efb8e.jpg)
+![10](https://user-images.githubusercontent.com/72274851/149301331-c439d806-a014-4eb5-a763-0687b70935a4.jpg)
+![11](https://user-images.githubusercontent.com/72274851/149301334-c22400b9-ea63-499d-8171-76f042e117dc.jpg)
+![12](https://user-images.githubusercontent.com/72274851/149301336-c39acf9c-d7c5-4528-8659-2e523c358543.jpg)
+
+
+
+
